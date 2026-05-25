@@ -1,0 +1,1 @@
+If urban_growth_prediction_Notebook file doesn't open or render, you can check the code in Google Colab following this link https://colab.research.google.com/drive/1n1cmRW1Rfi1bWVylLPY3EWimEtjLi_uP?usp=sharing
